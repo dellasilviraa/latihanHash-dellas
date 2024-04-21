@@ -45,4 +45,4 @@ public class soal1 {
         
         hashTable.printHashTable();
     }
-}
+} //soal1

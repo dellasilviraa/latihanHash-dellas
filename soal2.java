@@ -54,4 +54,4 @@ public class soal2 {
 
         hashTable.printHashTable();
     }
-}
+}//soal2

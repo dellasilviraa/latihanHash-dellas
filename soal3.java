@@ -60,4 +60,4 @@ public class soal3 {
         hashTable.printHashTable();
     }
 }
-
+//soal3
